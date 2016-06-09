@@ -23,3 +23,5 @@ Files:
 					this is because the google login process cannot be completely automated. In this first run a url is provided on the cmdline, 
 					entering this url in the browser leads to a google login page for the user to enter into their google account which then creates
 					mycreds.txt. Now data_daemon can be run in the background through crontab.
+					
+Referenced information from http://www.raspberrypi-spy.co.uk/2015/04/bmp180-i2c-digital-barometric-pressure-sensor/ for usage of BMP180.
